@@ -23,6 +23,6 @@ I uploaded the project files to my GitHub Codespaces repository and checked the 
 
 **AI conversation URL:**
 
-[(https://chatgpt.com/share/6b035a8e-04a0-83eb-8e89-beac2d2efb9a)]
+[https://chatgpt.com/share/6b035a8e-04a0-83eb-8e89-beac2d2efb9a]
 
 I have disclosed the AI
